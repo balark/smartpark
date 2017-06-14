@@ -1,0 +1,21 @@
+{
+  "name": "node_first_app",
+  "version": "1.0.0",
+  "description": "first application software",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "noe"
+  ],
+  "author": "balark",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
