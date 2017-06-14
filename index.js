@@ -1,2 +1,2 @@
-console.log(' Testing the Server')
+console.log('Application Started')
 require('./app/index.js')
